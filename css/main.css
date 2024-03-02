@@ -1,0 +1,5 @@
+@import "./xxl.css" screen and (min-width: 1400px);
+@import "xl.css" screen and (min-width: 1200px) and (max-width: 1400px);
+
+/* fonts for project */
+@import "./../css/fonts.css";
